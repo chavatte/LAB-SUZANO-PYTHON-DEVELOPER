@@ -1,0 +1,309 @@
+{
+  "documents": [
+      {
+          "id": "id__2644",
+          "sentiment": "mixed",
+          "confidenceScores": {
+              "positive": 0.38,
+              "neutral": 0.06,
+              "negative": 0.56
+          },
+          "sentences": [
+              {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                      "positive": 0.81,
+                      "neutral": 0.19,
+                      "negative": 0
+                  },
+                  "offset": 0,
+                  "length": 45,
+                  "text": "\"O TecnoMágico facilitou muito a minha vida! ",
+                  "targets": [],
+                  "assessments": []
+              },
+              {
+                  "sentiment": "negative",
+                  "confidenceScores": {
+                      "positive": 0.3,
+                      "neutral": 0.25,
+                      "negative": 0.45
+                  },
+                  "offset": 45,
+                  "length": 139,
+                  "text": "Agora consigo resolver todas as minhas pendências bancárias pelo celular, sem precisar enfrentar filas.\" - Maria Silva, 45 anos, bancária.  ",
+                  "targets": [],
+                  "assessments": []
+              },
+              {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                      "positive": 1,
+                      "neutral": 0,
+                      "negative": 0
+                  },
+                  "offset": 184,
+                  "length": 55,
+                  "text": "\"O TecnoMágico me ajuda a economizar tempo e dinheiro. ",
+                  "targets": [
+                      {
+                          "sentiment": "positive",
+                          "confidenceScores": {
+                              "positive": 1,
+                              "negative": 0
+                          },
+                          "offset": 188,
+                          "length": 11,
+                          "text": "TecnoMágico",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/2/assessments/0"
+                              }
+                          ]
+                      }
+                  ],
+                  "assessments": [
+                      {
+                          "sentiment": "positive",
+                          "confidenceScores": {
+                              "positive": 1,
+                              "negative": 0
+                          },
+                          "offset": 203,
+                          "length": 5,
+                          "text": "ajuda",
+                          "isNegated": false
+                      }
+                  ]
+              },
+              {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                      "positive": 0.95,
+                      "neutral": 0.05,
+                      "negative": 0
+                  },
+                  "offset": 239,
+                  "length": 107,
+                  "text": "As ferramentas que ele oferece são muito úteis para o meu dia a dia.\" - Ana Oliveira, 25 anos, empresária.  ",
+                  "targets": [
+                      {
+                          "sentiment": "positive",
+                          "confidenceScores": {
+                              "positive": 1,
+                              "negative": 0
+                          },
+                          "offset": 243,
+                          "length": 11,
+                          "text": "ferramentas",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/3/assessments/0"
+                              }
+                          ]
+                      }
+                  ],
+                  "assessments": [
+                      {
+                          "sentiment": "positive",
+                          "confidenceScores": {
+                              "positive": 1,
+                              "negative": 0
+                          },
+                          "offset": 281,
+                          "length": 5,
+                          "text": "úteis",
+                          "isNegated": false
+                      }
+                  ]
+              },
+              {
+                  "sentiment": "neutral",
+                  "confidenceScores": {
+                      "positive": 0.02,
+                      "neutral": 0.95,
+                      "negative": 0.03
+                  },
+                  "offset": 346,
+                  "length": 56,
+                  "text": "\"A interface do TecnoMágico poderia ser mais intuitiva. ",
+                  "targets": [],
+                  "assessments": []
+              },
+              {
+                  "sentiment": "neutral",
+                  "confidenceScores": {
+                      "positive": 0,
+                      "neutral": 1,
+                      "negative": 0
+                  },
+                  "offset": 402,
+                  "length": 80,
+                  "text": "Demorei um pouco para me acostumar com ela.\" - Carlos Dias, 50 anos, professor.  ",
+                  "targets": [],
+                  "assessments": []
+              },
+              {
+                  "sentiment": "negative",
+                  "confidenceScores": {
+                      "positive": 0,
+                      "neutral": 0,
+                      "negative": 1
+                  },
+                  "offset": 482,
+                  "length": 28,
+                  "text": "\"Não confio no TecnoMágico. ",
+                  "targets": [
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.02,
+                              "negative": 0.98
+                          },
+                          "offset": 500,
+                          "length": 11,
+                          "text": "TecnoMágico",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/6/assessments/0"
+                              }
+                          ]
+                      }
+                  ],
+                  "assessments": [
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.02,
+                              "negative": 0.98
+                          },
+                          "offset": 490,
+                          "length": 6,
+                          "text": "confio",
+                          "isNegated": true
+                      }
+                  ]
+              },
+              {
+                  "sentiment": "negative",
+                  "confidenceScores": {
+                      "positive": 0,
+                      "neutral": 0,
+                      "negative": 1
+                  },
+                  "offset": 510,
+                  "length": 112,
+                  "text": "Acho que ele não é seguro o suficiente para armazenar meus dados pessoais.\" - Bruno Machado, 30 anos, advogado.  ",
+                  "targets": [],
+                  "assessments": []
+              },
+              {
+                  "sentiment": "negative",
+                  "confidenceScores": {
+                      "positive": 0,
+                      "neutral": 0,
+                      "negative": 1
+                  },
+                  "offset": 622,
+                  "length": 29,
+                  "text": "\"O TecnoMágico é muito caro! ",
+                  "targets": [
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.03,
+                              "negative": 0.97
+                          },
+                          "offset": 629,
+                          "length": 11,
+                          "text": "TecnoMágico",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/8/assessments/0"
+                              }
+                          ]
+                      }
+                  ],
+                  "assessments": [
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.03,
+                              "negative": 0.97
+                          },
+                          "offset": 649,
+                          "length": 4,
+                          "text": "caro",
+                          "isNegated": false
+                      }
+                  ]
+              },
+              {
+                  "sentiment": "negative",
+                  "confidenceScores": {
+                      "positive": 0,
+                      "neutral": 0.01,
+                      "negative": 0.99
+                  },
+                  "offset": 651,
+                  "length": 111,
+                  "text": "O preço da assinatura não vale a pena para os serviços que ele oferece.\" - Rafael Pereira, 40 anos, engenheiro.",
+                  "targets": [
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.02,
+                              "negative": 0.98
+                          },
+                          "offset": 657,
+                          "length": 5,
+                          "text": "preço",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/9/assessments/0"
+                              }
+                          ]
+                      },
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.02,
+                              "negative": 0.98
+                          },
+                          "offset": 666,
+                          "length": 10,
+                          "text": "assinatura",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/9/assessments/0"
+                              }
+                          ]
+                      }
+                  ],
+                  "assessments": [
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.02,
+                              "negative": 0.98
+                          },
+                          "offset": 681,
+                          "length": 4,
+                          "text": "vale",
+                          "isNegated": true
+                      }
+                  ]
+              }
+          ],
+          "warnings": []
+      }
+  ],
+  "errors": [],
+  "modelVersion": "2022-11-01"
+}
