@@ -1,4 +1,4 @@
-# LAB-06: Análise de Sentimentos com Language Studio no Azure AI
+# LAB-07: Análise de Sentimentos com Language Studio no Azure AI
 
 ## Análise Texto com Language Studio
 

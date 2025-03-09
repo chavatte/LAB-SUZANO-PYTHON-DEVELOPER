@@ -1,0 +1,27 @@
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.venv/
+build/
+dist/
+*.log
+*.tmp
+*.swp
+*.bak
+*.DS_Store # Arquivos do macOS
+.venv/
+test_results/
+coverage/
+.coverage
+dist/
+build/
+*.egg-info/
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+data/
+*.jpg
+*.png
+*.gif
