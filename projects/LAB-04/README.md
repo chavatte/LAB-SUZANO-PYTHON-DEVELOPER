@@ -69,7 +69,7 @@ Se você preferir instalar as dependências manualmente, você pode usar o arqui
 
 ```
    git clone https://github.com/chavatte/LAB-SUZANO-PYTHON-DEVELOPER
-   cd projects\LAB-04\chavatte-image-processing
+   cd projects\LAB-04\chavatte_image_processing
 ```
 
 * 2. Instale as dependências usando o pip e o arquivo requirements.txt:
