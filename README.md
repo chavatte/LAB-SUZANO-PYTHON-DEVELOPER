@@ -51,4 +51,4 @@ O objetivo principal destes projetos é fornecer experiência prática no desenv
 
 ## Certificado de conclusão
 
- 🎓 [Suzano - Python Developer]()
+ 🎓 [Suzano - Python Developer](https://www.dio.me/certificate/ACXTAMZG)
