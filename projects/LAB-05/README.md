@@ -7,6 +7,7 @@ O objetivo é fornecer uma visão abrangente das capacidades da plataforma, desd
 
 <details>
 <summary>Criando um Agente baseado em Modelo no Microsoft Copilot Studio: Foco em Viagens Seguras</summary>
+
 ## Descrição
 
 Nessa parte do projeto será demonstrado o processo de criação, publicação e otimização de um agente inteligente no Microsoft Copilot Studio, utilizando um modelo pré-definido como ponto de partida. O objetivo é criar um agente capaz de fornecer informações e suporte sobre viagens seguras, abordando questões comuns e preocupações dos usuários.
